@@ -1,0 +1,73 @@
+.principal {
+    background-image: url(./Imagenes/fondoPNG.png);
+    background-size: cover;
+    background-position: center;
+    width: 1000px;
+    height: 70vh;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 25px;
+    margin-right: 25%;
+}
+
+.interno{
+    background-color: white;
+    width: 275px;
+    height: 275px;
+    margin-left: 12.5px;
+    margin-top: 12.5px;
+}
+
+.logo{
+    width: 240px;
+    height: 70px;
+    margin-left: 17.5px;
+}
+
+.moto{
+    width: 220px;
+    height: 120px;
+    margin-top: 40px;
+    margin-left: 35px;
+}
+
+.externo{
+    float: left;
+    background-color:grey ;
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 100px;
+    padding: 10px;
+    border-style: outset;
+    border-top: solid orange;
+    border-left: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    padding-top: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.amarillo{
+    float: right;
+    background-color: yellow ;
+    width: 300px;
+    height: 300px;
+    margin-right: 100px;
+    margin-top: 100px;
+    padding: 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+}
+
+p{
+    font-weight: bold;
+    text-align: center;
+}
